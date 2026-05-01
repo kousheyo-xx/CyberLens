@@ -5,7 +5,7 @@
 
   <br />
 
-  [![MIT License](https://img.shields.io/github/license/kousheyo-xx/CyberLens)](https://github.com/kousheyo-xx/CyberLens/blob/main/LICENSE)
+  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kousheyo-xx/CyberLens/blob/main/LICENSE)
   [![GitHub stars](https://img.shields.io/github/stars/kousheyo-xx/CyberLens?logo=github)](https://github.com/kousheyo-xx/CyberLens/stargazers)
   [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://python.org)
   [![Streamlit](https://img.shields.io/badge/Streamlit-1.57-red?logo=streamlit&logoColor=white)](https://streamlit.io)
