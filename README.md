@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🔮 CyberLens</h1>
+  <h1>CyberLens</h1>
   <p><strong>Transform your photos into black-and-neon cyber art</strong></p>
   <p>A Python-powered image processing app that converts any photo into a stylized black-and-neon image with adjustable pixelation — giving it that sharp, retro cyber-art aesthetic.</p>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎬 Demo
+##  Demo
 
 <div align="center">
   <table>
@@ -44,18 +44,18 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎨 **6 Neon Color Presets** — Neon Green, Cyan, Light Pink, Hot Pink, Electric Blue, Vivid Yellow
-- 🎚️ **Threshold Control** — Adjust the black/white cutoff to fine-tune contrast
-- 🧱 **Pixelation Slider** — Go from smooth to chunky retro pixel art in real-time
-- 📸 **All Formats** — Supports JPG, PNG, BMP, TIFF, WebP
-- ⬇️ **One-Click Download** — Save your processed image as PNG
-- 🖥️ **Sleek Dark UI** — Built with Streamlit, styled with a premium cyber aesthetic
+-  **6 Neon Color Presets** — Neon Green, Cyan, Light Pink, Hot Pink, Electric Blue, Vivid Yellow
+-  **Threshold Control** — Adjust the black/white cutoff to fine-tune contrast
+-  **Pixelation Slider** — Go from smooth to chunky retro pixel art in real-time
+-  **All Formats** — Supports JPG, PNG, BMP, TIFF, WebP
+-  **One-Click Download** — Save your processed image as PNG
+-  **Sleek Dark UI** — Built with Streamlit, styled with a premium cyber aesthetic
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 The processing pipeline has four steps:
 
@@ -68,7 +68,7 @@ The processing pipeline has four steps:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ This saves intermediate outputs (grayscale, threshold, each color, pixelation le
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 CyberLens/
@@ -124,7 +124,7 @@ CyberLens/
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Tool | Role |
 |------|------|
@@ -135,12 +135,12 @@ CyberLens/
 
 ---
 
-## 🤝 Need Help?
+##  Need Help?
 
 Feel free to reach out or contribute!
 
-- 💼 [LinkedIn — Kousheyo Banerjee](https://www.linkedin.com/in/kousheyo-banerjee-ab9440392)
-- 🐛 [Open an Issue](https://github.com/kousheyo-xx/CyberLens/issues/new/choose)
+-  [LinkedIn — Kousheyo Banerjee](https://www.linkedin.com/in/kousheyo-banerjee-ab9440392)
+-  [Open an Issue](https://github.com/kousheyo-xx/CyberLens/issues/new/choose)
 
 ---
 
