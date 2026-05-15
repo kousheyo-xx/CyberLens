@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CyberLens HEYYYYYYYYYY</h1>
+  <h1>CyberLens</h1>
   <p><strong>Transform your photos into black-and-neon cyber art</strong></p>
   <p>A Python-powered image processing app that converts any photo into a stylized black-and-neon image with adjustable pixelation — giving it that sharp, retro cyber-art aesthetic.</p>
 
