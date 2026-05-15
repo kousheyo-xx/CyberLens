@@ -145,5 +145,5 @@ Feel free to reach out or contribute!
 ---
 
 <div align="center">
-  <p>Made with 🔮 by <a href="https://www.linkedin.com/in/kousheyo-banerjee-ab9440392">Kousheyo Banerjee</a></p>
+  <p>Made with by <a href="https://www.linkedin.com/in/kousheyo-banerjee-ab9440392">Kousheyo Banerjee</a></p>
 </div>
